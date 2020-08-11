@@ -1,0 +1,20 @@
+I"<p><strong>IRCTC payments use case:</strong></p>
+<p>Date of cancellation of E-Ticket/Date of failure of E-Ticket booking:17-Feb-2020<br />
+<span class="il">Refund</span> processing date:18-Feb-2020<br />
+Refund status confirmed: 19-Feb-2020<br />
+Actual refund on the bank account: 21-Feb-2020</p>
+<p>This was actually a relatively quick refund from them.  The weird part is the failure of the e-ticket booking was shown to me within 2 mins of the initiation of the transaction. [<strong>Note</strong> that even though a day's delay was added from the merchant's (IRCTC) point, the financial systems took 3 days to figure out a failed transaction]</p>
+<p><strong>E-commerce EMI payment use case:</strong></p>
+<p>I shopped on Amazon and bought a phone on no-cost EMI at the tail end of the credit cycle. (last 5 days)</p>
+<p>The logic from the payments dashboard that was available to me is first the entire amount is deducted and then added. Then, 12 days later it got converted to EMI's [shown as 7 different lines in the statement (God knows why the calculation is so complex)]. The credit card bill that came showed the entire amount deducted. So, Amazon says to ask the bank because they did submit the EMI request immediately. The bank says ask Amazon as it is not their problem. Then, had to pay the entire amount anyways.</p>
+<p>No cost EMI makes sense for a depreciating asset. but not if the banks take 12 days to calculate a simple maths problem that a kid could have solved in 3 mins.</p>
+<p><strong>Retail Shopping use case:</strong></p>
+<p>I shopped at a store for shoes. I wore them for 3 weeks. And it was still not shown on my banking dashboard. At that point I as a user was confused. After the 3 weeks, it suddenly showed a 3-week old transaction for the said shoes.</p>
+<p><strong>In-flight shopping:</strong></p>
+<p>Late-night flight back home, barely awake and the cart lady offers coffee. I say yes. Being an Indian traveller, you always carry cash. But the digital nomad in me wanted to try card payments. I paid. Got a physical receipt. I expected some message after my phone switches on when I land. NOPE. I wait one more day for it to reflect on my statement or any intimation from my bank that something was deducted. NOPE. Two more days after, while returning home in my car, I get a message "X amount has been deducted". As usual, my heart skipped a beat, thinking did I just get hacked? Turns out it was my coffee.</p>
+<p>In the 21st century, payments infrastructure still does not seem to have grasped the tone of realtime transactions. The biggest flaw in this industry is that the security seems to a problem solved by delayed transmission and blocking access. Which not only leads to hassle in the overall payments ecosystem enablers but also incentivizes cash as the chosen mode of transaction.</p>
+<p>Cards seemed to be a cool product of the 90's barely making it now. The infra lags far behind and the cartelization of the said industry hinders essential innovation for the same.</p>
+<p>UPI though seems to have captured the problems and solved it quite elegantly, but in high volume retail use cases, 1 in 3 transactions fail (leaving aside the fact that there is an upper cap to a transaction amount). So it is still a bittersweet experience.</p>
+<p>Wallets tried to solve the use for some specific use cases and seem to be killed by the fact that after all the acquiring costs and the issuer costs, they themselves could not make any money unless someone gave them that money. Before they could figure out the financial nuances of this business, they were shut down by various regulatory drag downs.</p>
+<p>Where do we go from here? Maybe UPI with better backend infra, or NFC payments, backed by a semi-decentralized ledger might be the future of payments? We can't really know that for sure. But the sure thing is, innovation has to be the central point of payments, sandbox collaboration points can be a starting point. Just blocking access to the central API's not only does it not make any platform secure but also takes our digital ecosystem back to the '90s.</p>
+:ET
