@@ -1,16 +1,4 @@
----
-layout: post
-title: Theatre a dying business? or the dawn of a new era
-date: 2020-10-27 16:01:28.000000000 +05:30
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-img: # Add image post (optional)
-tags: [theatres, pandemic]
----
-<!-- wp:paragraph -->
+I"¼<!-- wp:paragraph -->
 <p>Theatre and cinema halls across the world are facing an interesting dilemma of survival. People are betting one against the other. Most say streaming will kill the physical standalone theatres, some larger ones might survive.</p>
 <!-- /wp:paragraph -->
 
@@ -22,9 +10,10 @@ tags: [theatres, pandemic]
 
 <!-- wp:paragraph -->
 <p>I think this demarcation is important, one that will ensure survival of both of them in the age of uncertainity. What if the content delivery networks itself licensed that with some subscription for special category ie. theatres to play the same in halls. Imagine as a consumer, you can walk into a theatre and watch a re-run of FRIENDS.
-    Or the kickass screening of GOT episodes, along with fellow GOT community.
+    Or the kickass screening of GOT episodes, along with fellow GOT community. 
 </p>
 
 <!-- /wp:paragraph -->
-![My Image](/assets/img/chart.png)
-<!-- /wp:paragraph -->
+<p><img src="/assets/img/chart.png" alt="My Image" />
+<!-- /wp:paragraph --></p>
+:ET
